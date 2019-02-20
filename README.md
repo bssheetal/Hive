@@ -26,3 +26,19 @@ Google Places API - restuarant and location data
 Meet up API-Professional Interest API data
 
 Firebase - cloud database
+
+# Authors 🔑
+
+Annette Kalla
+
+Catherine Blake
+
+Melanie Ryan
+
+Saba Borjian
+
+Sheetal B Srikumar
+
+# Acknowledgments 🙏
+
+A bigly thank you to our instructor, Travis & TA Jacob Janak
